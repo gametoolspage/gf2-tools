@@ -1,0 +1,1 @@
+import{c as n,o as a,d as r}from"./index-ByAWvQmX.js";const _=(e,t)=>{const c=e.__vccOpts||e;for(const[o,s]of t)c[o]=s;return c},d={},i={class:"container"},l=r("div",{class:"panel-wrap"}," 1 ",-1),f=[l];function p(e,t){return a(),n("div",i,f)}const h=_(d,[["render",p]]);export{h as default};
